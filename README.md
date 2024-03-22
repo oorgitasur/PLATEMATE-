@@ -2,7 +2,7 @@
 
 
 
-# Introduction📝
+# Introduction🐨
 This project is developed for the Intel GenAI Hackathon at Cognizance’24 and aims to provide a comprehensive solution for individuals managing diabetes. The application reads data from a glucometer to detect diabetes, analyzes uploaded food items to determine their nutritional value, and provides personalized diet recommendations based on the user's health condition.
 
 
