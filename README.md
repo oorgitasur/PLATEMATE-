@@ -31,7 +31,7 @@ git clone https://github.com/oorgitasur/-Personalized-nutrition-and-sugar-level-
 
 # Install dependencies🌱
 
-hardware to deploy :5th Generation Intel® Xeon® Scalable processors 
+_**hardware to deploy :**_ 5th Generation Intel® Xeon® Scalable processors 
 
 _**intel oneapi :**_ Machine Learning Using oneAPI ,Image-to-Image Generation with Stable Diffusion
 
@@ -42,10 +42,12 @@ _**intel oneapi :**_ Machine Learning Using oneAPI ,Image-to-Image Generation wi
 Connect your glucometer device to the application.
 Upload your glucometer readings for analysis.
 Receive insights and recommendations regarding your blood sugar levels.
-Food Item Identification:
+
+### Food Item Identification:
 
 Upload an image or enter text describing the food item.
 The application will identify the food item and provide its nutritional value.
-Personalized Recommendations:
+
+### Personalized Recommendations:
 
 Based on your health condition and nutritional requirements, the application will suggest whether you should or can consume a particular food item.
