@@ -18,7 +18,7 @@ Clone the repository:
 git clone https://github.com/oorgitasur/-Personalized-nutrition-and-sugar-level-analyzer-for-diabetic-patients-.git
 
 
-Install dependencies:
+# Install dependencies:
 
 hardware to deploy :5th Generation Intel® Xeon® Scalable processors 
 intel oneapi : Machine Learning Using oneAPI ,Image-to-Image Generation with Stable Diffusion
