@@ -1,1 +1,1 @@
-# Personalized Nutrition and sugar level analyzer for diabetic patients
+# Personalized Nutrition and Sugar level Analyzer for Diabetic Patients
