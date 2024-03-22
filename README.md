@@ -18,13 +18,14 @@ _**Personalized Recommendations:**_ Suggests whether the user should or can cons
 
 ## Technologies Used
 
-Python: TensorFlow, OpenCV
-Machine Learning: Keras, Scikit-Learn
-Database: SQLite
+_**Python:**_ TensorFlow, OpenCV
+_**Machine Learning:**_ Keras, Scikit-Learn
+_**Database:**_ SQLite
 
 ### Setup Instructions
 
-Clone the repository:
+_**Clone the repository:**_
+
 git clone https://github.com/oorgitasur/-Personalized-nutrition-and-sugar-level-analyzer-for-diabetic-patients-.git
 
 
@@ -32,11 +33,11 @@ git clone https://github.com/oorgitasur/-Personalized-nutrition-and-sugar-level-
 
 hardware to deploy :5th Generation Intel® Xeon® Scalable processors 
 
-intel oneapi : Machine Learning Using oneAPI ,Image-to-Image Generation with Stable Diffusion
+_**intel oneapi :**_ Machine Learning Using oneAPI ,Image-to-Image Generation with Stable Diffusion
 
 
 # Usage🤖
-Glucometer Reading Analysis:
+### Glucometer Reading Analysis:
 
 Connect your glucometer device to the application.
 Upload your glucometer readings for analysis.
