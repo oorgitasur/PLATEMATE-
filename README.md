@@ -1,5 +1,5 @@
 # Personalized Nutrition and Sugar level Analyzer for Diabetic Patients
-Plate Mate
+PlateMate
 
 Introduction
 This project is developed for the Intel GenAI Hackathon at Cognizance’24 and aims to provide a comprehensive solution for individuals managing diabetes. The application reads data from a glucometer to detect diabetes, analyzes uploaded food items to determine their nutritional value, and provides personalized diet recommendations based on the user's health condition.
@@ -17,6 +17,8 @@ Database: SQLite
 Setup Instructions
 Clone the repository:
 git clone https://github.com/oorgitasur/-Personalized-nutrition-and-sugar-level-analyzer-for-diabetic-patients-.git
+
+
 Install dependencies:
 
 hardware to deploy :5th Generation Intel® Xeon® Scalable processors 
