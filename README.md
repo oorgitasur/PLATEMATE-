@@ -22,7 +22,7 @@ Python: TensorFlow, OpenCV
 Machine Learning: Keras, Scikit-Learn
 Database: SQLite
 
-Setup Instructions
+### Setup Instructions
 
 Clone the repository:
 git clone https://github.com/oorgitasur/-Personalized-nutrition-and-sugar-level-analyzer-for-diabetic-patients-.git
