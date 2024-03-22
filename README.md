@@ -1,6 +1,6 @@
 # PlateMate🍜
 
-# Introduction
+# Introduction🐨
 This project is developed for the Intel GenAI Hackathon at Cognizance’24 and aims to provide a comprehensive solution for individuals managing diabetes. The application reads data from a glucometer to detect diabetes, analyzes uploaded food items to determine their nutritional value, and provides personalized diet recommendations based on the user's health condition.
 
 
@@ -32,7 +32,7 @@ hardware to deploy :5th Generation Intel® Xeon® Scalable processors
 intel oneapi : Machine Learning Using oneAPI ,Image-to-Image Generation with Stable Diffusion
 
 
-# Usage
+# Usage🤖
 Glucometer Reading Analysis:
 
 Connect your glucometer device to the application.
