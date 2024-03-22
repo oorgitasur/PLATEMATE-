@@ -15,7 +15,8 @@ _**Nutritional Value Calculation:**_ Determines the nutritional value of identif
 
 _**Personalized Recommendations:**_ Suggests whether the user should or can consume a particular food item based on their health condition and nutritional requirements.
 
-****Technologies Used****
+
+## Technologies Used
 
 Python: TensorFlow, OpenCV
 Machine Learning: Keras, Scikit-Learn
