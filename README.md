@@ -28,6 +28,7 @@ git clone https://github.com/oorgitasur/-Personalized-nutrition-and-sugar-level-
 # Install dependencies:
 
 hardware to deploy :5th Generation Intel® Xeon® Scalable processors 
+
 intel oneapi : Machine Learning Using oneAPI ,Image-to-Image Generation with Stable Diffusion
 
 
