@@ -6,6 +6,7 @@ This project is developed for the Intel GenAI Hackathon at Cognizance’24 and a
 
 # Features
 Glucometer Reading Analysis: Detects diabetes based on glucometer readings and provides insights into blood sugar levels.
+
 Food Item Identification: Utilizes machine learning algorithms to identify uploaded food items from images or text inputs.
 Nutritional Value Calculation: Determines the nutritional value of identified food items, including calories, carbohydrates, proteins, and fats.
 Personalized Recommendations: Suggests whether the user should or can consume a particular food item based on their health condition and nutritional requirements.
