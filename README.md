@@ -24,9 +24,7 @@ _**Database:**_ SQLite
 
 ### Setup Instructions
 
-_**Clone the repository:**_
 
-git clone https://github.com/oorgitasur/-Personalized-nutrition-and-sugar-level-analyzer-for-diabetic-patients-.git
 
 
 # Install dependencies🌱
